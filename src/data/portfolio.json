@@ -1,0 +1,81 @@
+{
+  "personal": {
+    "name": "Yashaswini Mullalli",
+    "role": "Aspiring Software Developer",
+    "tagline": "Full-Stack Development • AI/ML • Cloud • DSA",
+    "location": "KA, India",
+    "email": "yashaswinimullalli4@gmail.com",
+    "summary": "Aspiring Software Developer with experience in Full-Stack Development, AI/ML, Cloud technologies, and DSA through real-world projects and modern web application development. Skilled in designing scalable applications, building intelligent AI-powered solutions, and solving complex problems using Data Structures & Algorithms in C++. Passionate about developing efficient, user-centric software that transforms ideas into impactful digital solutions.",
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/yashaswini-mullalli-3082a6330/",
+      "github": "https://github.com/yashaswinimullalli",
+      "kaggle": "https://www.kaggle.com/yashaswinimullalli",
+      "portfolio": "https://yashaswinimullalli.vercel.app/",
+      "blog": "https://yashaswinimullalli.medium.com/"
+    }
+  },
+  "education": [
+    {
+      "institution": "Nitte Meenakshi Institute of Technology",
+      "degree": "Bachelor of Engineering in Information Science",
+      "period": "September 2024 – June 2028",
+      "grade": "CGPA: 8.9"
+    },
+    {
+      "institution": "vishwachetana Vidyaniketan,Davangere",
+      "degree": "HSC Science",
+      "period": "August 2022 - June 2024",
+      "grade": "96.66%"
+    }
+  ],
+  "skills": {
+    "languages": [
+      "Python",
+      "SQL",
+      "R",
+      "Pandas",
+      "NumPy"
+    ],
+    "visualization": [
+      "Power BI",
+      "Tableau",
+      "Plotly",
+      "Matplotlib",
+      "Microsoft Excel",
+      "Google Analytics"
+    ],
+    "databases": [
+      "MySQL",
+      "PostgreSQL",
+      "SQLite",
+      "MongoDB"
+    ],
+    "analytics": [
+      "Exploratory Data Analysis (EDA)",
+      "Data Cleaning",
+      "Dashboard Development",
+      "KPI Reporting",
+      "Scikit-learn",
+      "Jupyter",
+      "Reporting Automation"
+    ],
+    "tools": [
+      "Git",
+      "GitHub",
+      "VS Code"
+    ],
+    "soft": [
+      "Analytical Thinking",
+      "Problem Solving",
+      "Communication",
+      "Collaboration"
+    ]
+  },
+  "experience": [],
+  "projects": [],
+  "certifications": [
+    "Prompt Design  —  Google",
+    "Generative AI Certification - Google"
+  ],
+  "leadership": []
+}
